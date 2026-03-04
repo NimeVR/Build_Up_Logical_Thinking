@@ -4,7 +4,7 @@ public class Pattern19 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n=9;
+		int n=5;
 		for(int i=0;i<n;i++) {
 			String star="*".repeat(n-i);
 			String space=" ".repeat(i*2);
